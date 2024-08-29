@@ -2,7 +2,8 @@
 
 ### DATE: 29-08-24
 
-### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
+### AIM: 
+To implement preprocessing technique on Twitter Data using Rapidminer
 
 ### Description: 
 <div align = "justify">
